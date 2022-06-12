@@ -1,0 +1,16 @@
+.watch-video{
+    background-image: url('../../images/subbackgroubd.jpg');
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 100px 0px;
+    background-attachment: fixed;
+}
+@media only screen and (max-width:668px) {
+    .watch-video{
+        width: 100%;
+        height: 500px;
+    }
+}
